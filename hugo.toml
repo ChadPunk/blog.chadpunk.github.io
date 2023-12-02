@@ -1,0 +1,4 @@
+baseURL = 'https://blog.ceroute.com/'
+languageCode = 'en-us'
+title = 'blog.ceroute.com'
+theme = 'FixIt'
