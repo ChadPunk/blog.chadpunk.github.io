@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>blog.ceroute.com</title>
-    <link>https://blog.ceroute.com/</link>
-    <description>blog.ceroute.com</description>
-    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 18:48:12 -0500</lastBuildDate>
-      <atom:link href="https://blog.ceroute.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <title>All Posts - blog.ceroute.com</title>
+    <link>https://blog.ceroute.com/posts/</link>
+    <description>All Posts | blog.ceroute.com</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 18:48:12 -0500</lastBuildDate><atom:link href="https://blog.ceroute.com/posts/" rel="self" type="application/rss+xml" /><item>
   <title>My First Post</title>
   <link>https://blog.ceroute.com/posts/my-first-post/</link>
   <pubDate>Fri, 01 Dec 2023 18:48:12 -0500</pubDate>

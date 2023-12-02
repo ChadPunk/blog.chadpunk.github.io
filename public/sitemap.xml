@@ -2,6 +2,8 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>https://blog.ceroute.com/</loc></url><url>
+      <loc>https://blog.ceroute.com/</loc><lastmod>2023-12-01T18:48:12-05:00</lastmod></url><url>
+      <loc>https://blog.ceroute.com/posts/my-first-post/</loc><lastmod>2023-12-01T18:48:12-05:00</lastmod></url><url>
+      <loc>https://blog.ceroute.com/posts/</loc><lastmod>2023-12-01T18:48:12-05:00</lastmod></url><url>
       <loc>https://blog.ceroute.com/categories/</loc></url><url>
       <loc>https://blog.ceroute.com/tags/</loc></url></urlset>
